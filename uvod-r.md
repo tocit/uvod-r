@@ -48,8 +48,14 @@ available.packages()
 ```
 
 
-Slide With Plot
+Pracovní adresář
 ========================================================
+getwd()
+setwd()
+
+Získání dat
+========================================================
+download.file()
 
 
 ```r
